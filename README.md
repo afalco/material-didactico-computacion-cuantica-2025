@@ -43,26 +43,6 @@ Cuando se reutilicen o referencien estos materiales, se sugiere citar de forma g
 
 ## Licencia
 
-> ⚠️ **Pendiente de definir**  
-> 
-> En función de las políticas de la Universidad CEU UCH y de la Conselleria,
-> se establecerá la licencia de uso (por ejemplo, Creative Commons
-> Reconocimiento-NoComercial-CompartirIgual).
-
-Mientras no se defina una licencia explícita, se recomienda solicitar
-autorización para usos que excedan la docencia e investigación.
-
-## Contacto
-
-- **Responsable académico**:  
-  Dr. Antonio Falcó Montesinos  
-  Universidad CEU Cardenal Herrera  
-
-Para consultas o sugerencias sobre los materiales, puede contactarse por
-correo institucional.
-
-## Licencia
-
 <div align="left">
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
@@ -78,3 +58,15 @@ Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacion
 </a>.
 
 </div>
+
+Mientras no se defina una licencia explícita, se recomienda solicitar
+autorización para usos que excedan la docencia e investigación.
+
+## Contacto
+
+- **Responsable académico**:  
+  Dr. Antonio Falcó Montesinos  
+  Universidad CEU Cardenal Herrera  
+
+Para consultas o sugerencias sobre los materiales, puede contactarse por
+correo institucional.
