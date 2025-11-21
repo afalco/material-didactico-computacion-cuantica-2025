@@ -60,3 +60,21 @@ autorización para usos que excedan la docencia e investigación.
 
 Para consultas o sugerencias sobre los materiales, puede contactarse por
 correo institucional.
+
+## Licencia
+
+<div align="left">
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+  <img alt="Licencia Creative Commons" style="border-width:0"
+       src="https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png" />
+</a>
+
+<br/>
+
+Este trabajo está distribuido bajo una 
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+</a>.
+
+</div>
