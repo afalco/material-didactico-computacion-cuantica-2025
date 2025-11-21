@@ -1,4 +1,3 @@
-# material-didactico-computacion-cuantica-2025
 # Material didáctico en computación cuántica (2025)
 
 Este repositorio recoge los materiales didácticos (guías y vídeos)
